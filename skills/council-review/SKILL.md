@@ -33,7 +33,7 @@ of seconds. Skip it for:
 - Typos, formatting, renames, dependency bumps.
 - Work in progress that the user is still actively changing.
 - Anything you can verify yourself by reading the code or running tests. Run the
-  tests first; a failing test is better evidence than five opinions.
+  tests first; a failing test is better evidence than six opinions.
 - Repeat runs on a diff that has not changed since the last review.
 
 Do not run more than one agent set on the same diff unless the user asks. Pick

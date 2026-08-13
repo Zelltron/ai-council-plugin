@@ -1,6 +1,6 @@
 # AI Council — Claude Code plugin
 
-Multi-agent code review for Claude Code. Five specialized agents vote APPROVE,
+Multi-agent code review for Claude Code. Six specialized agents vote APPROVE,
 REVISE, or REJECT on a change and a judge synthesizes the verdict. When the
 Gemini agent dissents from the majority, a debate round runs before the ruling.
 

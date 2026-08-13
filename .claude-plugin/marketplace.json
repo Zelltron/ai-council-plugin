@@ -4,7 +4,7 @@
   "description": "Multi-agent AI code review and decision engine for Claude Code",
   "owner": {
     "name": "Zellio LLC",
-    "url": "https://ai-council.lemonsqueezy.com"
+    "url": "https://ai-council.tech"
   },
   "metadata": {
     "description": "Multi-agent AI code review and decision engine"
@@ -13,13 +13,13 @@
     {
       "name": "ai-council",
       "source": "./",
-      "description": "Five specialized agents vote APPROVE/REVISE/REJECT on a change and a judge synthesizes the verdict, with dissent surfaced rather than averaged away. Bundles the AI Council MCP server, five slash commands, a review skill, and a guided setup skill.",
-      "version": "0.1.1",
+      "description": "Six specialized agents vote APPROVE/REVISE/REJECT on a change and a judge synthesizes the verdict, with dissent surfaced rather than averaged away. Bundles the AI Council MCP server, five slash commands, a review skill, and a guided setup skill.",
+      "version": "0.1.2",
       "author": {
         "name": "Zellio LLC",
-        "url": "https://ai-council.lemonsqueezy.com"
+        "url": "https://ai-council.tech"
       },
-      "homepage": "https://ai-council.lemonsqueezy.com",
+      "homepage": "https://ai-council.tech",
       "repository": "https://github.com/Zelltron/ai-council-plugin",
       "license": "Apache-2.0",
       "keywords": [
