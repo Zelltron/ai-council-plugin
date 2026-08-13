@@ -1,0 +1,6 @@
+{
+  "ai-council": {
+    "command": "npx",
+    "args": ["-y", "@mugzie/ai-council", "mcp"]
+  }
+}
