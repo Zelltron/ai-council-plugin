@@ -3,7 +3,7 @@
   "name": "ai-council",
   "description": "Multi-agent AI code review and decision engine for Claude Code",
   "owner": {
-    "name": "Mugzie",
+    "name": "Zellio LLC",
     "url": "https://ai-council.lemonsqueezy.com"
   },
   "metadata": {
@@ -14,13 +14,14 @@
       "name": "ai-council",
       "source": "./",
       "description": "Five specialized agents vote APPROVE/REVISE/REJECT on a change and a judge synthesizes the verdict, with dissent surfaced rather than averaged away. Bundles the AI Council MCP server, five slash commands, a review skill, and a guided setup skill.",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "author": {
-        "name": "Mugzie",
+        "name": "Zellio LLC",
         "url": "https://ai-council.lemonsqueezy.com"
       },
       "homepage": "https://ai-council.lemonsqueezy.com",
       "repository": "https://github.com/Zelltron/ai-council-plugin",
+      "license": "Apache-2.0",
       "keywords": [
         "code-review",
         "security",

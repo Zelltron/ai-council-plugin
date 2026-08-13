@@ -1,13 +1,14 @@
 {
   "name": "ai-council",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Multi-agent code review. Five specialized agents vote APPROVE/REVISE/REJECT on a change and a judge synthesizes the verdict, with dissent surfaced rather than averaged away.",
   "author": {
-    "name": "Mugzie",
+    "name": "Zellio LLC",
     "url": "https://ai-council.lemonsqueezy.com"
   },
   "homepage": "https://ai-council.lemonsqueezy.com",
   "repository": "https://github.com/Zelltron/ai-council-plugin",
+  "license": "Apache-2.0",
   "keywords": [
     "code-review",
     "security",

@@ -145,3 +145,20 @@ it is still wrong, relaunch Claude Code from the repository root.
 
 The same engine is available as a standalone CLI and as a Cursor extension. See
 [ai-council.lemonsqueezy.com](https://ai-council.lemonsqueezy.com).
+
+## License
+
+Two different licenses apply, so read this before forking.
+
+The **Claude Code integration in this repository** — the manifest, MCP server
+declaration, slash commands, skills, and documentation — is licensed under
+Apache-2.0. See [LICENSE](LICENSE).
+
+The **AI Council review engine** is not. It ships separately as the
+[`@mugzie/ai-council`](https://www.npmjs.com/package/@mugzie/ai-council) npm
+package under a proprietary license, requires a valid paid license key, and may
+not be copied, modified, redistributed, or reverse engineered.
+
+Nothing in this repository grants any right to the engine, and Apache-2.0 grants
+no rights to the "AI Council" name or marks. See [NOTICE](NOTICE) for the
+authoritative scope statement, which redistributors are required to preserve.

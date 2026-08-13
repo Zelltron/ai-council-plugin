@@ -1,0 +1,38 @@
+AI Council - Claude Code plugin
+Copyright (c) 2026 Zellio LLC
+
+This product includes software developed by Zellio LLC
+(https://ai-council.lemonsqueezy.com).
+
+SCOPE OF THE APACHE LICENSE 2.0 IN THIS REPOSITORY
+
+The Apache License 2.0 accompanying this NOTICE applies ONLY to the Claude Code
+integration files contained in this repository:
+
+  - the plugin manifest and marketplace manifest (.claude-plugin/)
+  - the MCP server declaration (.mcp.json)
+  - the slash commands (commands/)
+  - the skills (skills/)
+  - the documentation (README.md)
+
+IT DOES NOT APPLY TO THE AI COUNCIL REVIEW ENGINE
+
+The AI Council review engine is not contained in this repository. It is
+distributed separately as the npm package @mugzie/ai-council, which this plugin
+downloads and runs at invocation time.
+
+That engine is proprietary and confidential software, licensed and not sold. It
+requires a valid license key purchased from
+https://ai-council.lemonsqueezy.com, and it may NOT be copied, modified,
+distributed, sublicensed, reverse engineered, decompiled, or disassembled. Its
+full terms accompany that package.
+
+Nothing in this repository, and nothing in the Apache License 2.0 granted over
+the files listed above, conveys any license or right to the AI Council engine.
+
+TRADEMARKS
+
+As stated in section 6 of the Apache License 2.0, no trademark rights are
+granted. "AI Council" and "Zellio" are marks of Zellio LLC. This license does
+not permit use of those marks to name, brand, endorse, or promote derivative or
+competing works.
